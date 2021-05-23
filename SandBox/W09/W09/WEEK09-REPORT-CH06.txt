@@ -1,0 +1,272 @@
+ZCZC ===== Chapter 06 =====  Week 09 =====
+ZCZC pwd /home/X1non/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1913
+ZCZC hostname X1non
+ZCZC username X1non
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn X1nonW09 X1non 1317-6B89 Verified
+ZCZC MaxLFS 1864M
+ZCZC MaxROOT 3571M
+ZCZC MaxMemory 174M
+ZCZC MaxSwap 0M
+ZCZC MaxLFS 1875M
+ZCZC MaxMemory 175M
+ZCZC verifyTokenn X1nonW09 X1non 1420-591E Verified
+ZCZC MaxMemory 181M
+ZCZC MaxMemory 182M
+ZCZC MaxLFS 1878M
+ZCZC MaxLFS 1879M
+ZCZC MaxMemory 215M
+ZCZC verifyTokenn X1nonW09 X1non 1521-E1A2 Verified
+ZCZC MaxLFS 1884M
+ZCZC MaxLFS 1886M
+ZCZC verifyTokenn X1nonW09 X1non 1622-9475 Verified
+ZCZC MaxMemory 258M
+ZCZC MaxLFS 1901M
+ZCZC verifyTokenn X1nonW09 X1non 1724-CC5B Verified
+ZCZC MaxLFS 1904M
+ZCZC MaxLFS 1906M
+ZCZC MaxLFS 1910M
+ZCZC verifyTokenn X1nonW09 X1non 1825-9607 Verified
+ZCZC MaxLFS 1919M
+ZCZC verifyTokenn X1nonW09 X1non 1927-4BEC Verified
+ZCZC verifyTokenn X1nonW09 X1non 2028-572C Verified
+ZCZC verifyTokenn X1nonW09 X1non 2130-8DF2 Verified
+ZCZC MaxROOT 3572M
+ZCZC MaxMemory 546M
+ZCZC MaxLFS 1926M
+ZCZC MaxLFS 1939M
+ZCZC MaxLFS 1941M
+ZCZC verifyTokenn X1nonW09 X1non 2231-373D Verified
+ZCZC MaxLFS 1944M
+ZCZC verifyTokenn X1nonW09 X1non 2333-F423 Verified
+ZCZC MaxLFS 1946M
+ZCZC MaxLFS 1951M
+ZCZC MaxLFS 1952M
+ZCZC verifyTokenn X1nonW09 X1non 2434-A097 Verified
+ZCZC MaxLFS 1954M
+ZCZC MaxLFS 1962M
+ZCZC MaxLFS 1991M
+ZCZC MaxLFS 2010M
+ZCZC verifyTokenn X1nonW09 X1non 2535-7890 Verified
+ZCZC MaxLFS 2058M
+ZCZC verifyTokenn X1nonW09 X1non 2637-B0FC Verified
+ZCZC verifyTokenn X1nonW09 X1non 2738-2F0B Verified
+ZCZC verifyTokenn X1nonW09 X1non 2840-8ACB Verified
+ZCZC verifyTokenn X1nonW09 X1non 2941-9BD2 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3043-DAF5 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3144-26A0 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3245-349A Verified
+ZCZC verifyTokenn X1nonW09 X1non 3347-A7DD Verified
+ZCZC verifyTokenn X1nonW09 X1non 3448-E703 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3549-D940 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3651-4DB9 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3752-052A Verified
+ZCZC verifyTokenn X1nonW09 X1non 3854-AAA6 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3956-7088 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4057-23B3 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4159-FCFB Verified
+ZCZC verifyTokenn X1nonW09 X1non 4300-A364 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4402-11E6 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4503-AA92 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4605-CCD8 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4706-62EC Verified
+ZCZC verifyTokenn X1nonW09 X1non 4807-BEF2 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4909-F375 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5010-D97B Verified
+ZCZC verifyTokenn X1nonW09 X1non 5111-ECB2 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5213-D6ED Verified
+ZCZC verifyTokenn X1nonW09 X1non 5314-5704 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5416-40F1 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5517-83C8 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5619-440A Verified
+ZCZC MaxLFS 2301M
+ZCZC verifyTokenn X1nonW09 X1non 5720-2823 Verified
+ZCZC MaxLFS 2302M
+ZCZC MaxLFS 2304M
+ZCZC MaxLFS 2308M
+ZCZC MaxLFS 2318M
+ZCZC MaxLFS 2328M
+ZCZC verifyTokenn X1nonW09 X1non 5821-C302 Verified
+ZCZC MaxLFS 2336M
+ZCZC MaxROOT 3576M
+ZCZC MaxLFS 2342M
+ZCZC MaxLFS 2380M
+ZCZC MaxLFS 2398M
+ZCZC MaxLFS 2410M
+ZCZC MaxLFS 2419M
+ZCZC MaxLFS 2432M
+ZCZC MaxLFS 2440M
+ZCZC verifyTokenn X1nonW09 X1non 5923-F666 Verified
+ZCZC MaxLFS 2491M
+ZCZC verifyTokenn X1nonW09 X1non 0025-60FD Verified
+ZCZC verifyTokenn X1nonW09 X1non 0126-47C3 Verified
+ZCZC verifyTokenn X1nonW09 X1non 0227-0E8D Verified
+ZCZC verifyTokenn X1nonW09 X1non 0329-DB63 Verified
+ZCZC verifyTokenn X1nonW09 X1non 0430-5A02 Verified
+ZCZC verifyTokenn X1nonW09 X1non 0532-E429 Verified
+ZCZC verifyTokenn X1nonW09 X1non 0633-75AB Verified
+ZCZC verifyTokenn X1nonW09 X1non 0735-CE31 Verified
+ZCZC verifyTokenn X1nonW09 X1non 0836-DC77 Verified
+ZCZC verifyTokenn X1nonW09 X1non 0937-9723 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1039-BDB3 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1140-8E81 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1242-6B04 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1343-96A5 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1444-E0B6 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1547-75F7 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1649-166A Verified
+ZCZC verifyTokenn X1nonW09 X1non 1751-3470 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1852-7E45 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1954-5E8E Verified
+ZCZC verifyTokenn X1nonW09 X1non 2055-1D04 Verified
+ZCZC verifyTokenn X1nonW09 X1non 2156-6DA4 Verified
+ZCZC verifyTokenn X1nonW09 X1non 2258-27D1 Verified
+ZCZC verifyTokenn X1nonW09 X1non 2359-99CA Verified
+ZCZC verifyTokenn X1nonW09 X1non 2501-5E18 Verified
+ZCZC verifyTokenn X1nonW09 X1non 2603-093D Verified
+ZCZC verifyTokenn X1nonW09 X1non 2704-23AA Verified
+ZCZC verifyTokenn X1nonW09 X1non 2805-EB6B Verified
+ZCZC verifyTokenn X1nonW09 X1non 2907-428E Verified
+ZCZC verifyTokenn X1nonW09 X1non 3008-F22F Verified
+ZCZC verifyTokenn X1nonW09 X1non 3110-91CE Verified
+ZCZC verifyTokenn X1nonW09 X1non 3211-BB26 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3312-FA6B Verified
+ZCZC verifyTokenn X1nonW09 X1non 3414-26B2 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3515-7F2D Verified
+ZCZC verifyTokenn X1nonW09 X1non 3617-9BDA Verified
+ZCZC verifyTokenn X1nonW09 X1non 3718-EB0C Verified
+ZCZC verifyTokenn X1nonW09 X1non 3819-C370 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3921-325E Verified
+ZCZC verifyTokenn X1nonW09 X1non 4022-F25D Verified
+ZCZC verifyTokenn X1nonW09 X1non 4123-E844 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4225-38B9 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4326-076A Verified
+ZCZC verifyTokenn X1nonW09 X1non 4427-438D Verified
+ZCZC verifyTokenn X1nonW09 X1non 4529-2F55 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4630-2EF1 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4732-E9B4 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4833-4BC0 Verified
+ZCZC verifyTokenn X1nonW09 X1non 4935-FDAA Verified
+ZCZC verifyTokenn X1nonW09 X1non 5036-779A Verified
+ZCZC verifyTokenn X1nonW09 X1non 5137-C7A3 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5238-D5DC Verified
+ZCZC verifyTokenn X1nonW09 X1non 5340-F777 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5441-1544 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5542-6DB5 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5644-A73C Verified
+ZCZC verifyTokenn X1nonW09 X1non 5745-6C75 Verified
+ZCZC verifyTokenn X1nonW09 X1non 5847-1657 Verified
+ZCZC MaxLFS 2591M
+ZCZC MaxLFS 2902M
+ZCZC MaxLFS 2914M
+ZCZC MaxLFS 2934M
+ZCZC MaxLFS 2938M
+ZCZC verifyTokenn X1nonW09 X1non 5948-A2B5 Verified
+ZCZC MaxLFS 2939M
+ZCZC MaxLFS 2943M
+ZCZC MaxLFS 2944M
+ZCZC MaxLFS 2953M
+ZCZC verifyTokenn X1nonW09 X1non 0050-5ACF Verified
+ZCZC MaxLFS 2962M
+ZCZC MaxLFS 2969M
+ZCZC MaxLFS 2974M
+ZCZC MaxLFS 2978M
+ZCZC MaxLFS 2983M
+ZCZC MaxLFS 2988M
+ZCZC MaxLFS 2991M
+ZCZC MaxLFS 2998M
+ZCZC MaxLFS 3001M
+ZCZC MaxLFS 3002M
+ZCZC verifyTokenn X1nonW09 X1non 0151-6651 Verified
+ZCZC MaxLFS 3008M
+ZCZC MaxLFS 3026M
+ZCZC MaxMemory 662M
+ZCZC MaxLFS 3041M
+ZCZC MaxLFS 3048M
+ZCZC MaxLFS 3059M
+ZCZC MaxMemory 1278M
+ZCZC MaxLFS 3063M
+ZCZC MaxROOT 3580M
+ZCZC MaxMemory 1294M
+ZCZC verifyTokenn X1nonW09 X1non 0253-9116 Verified
+ZCZC MaxLFS 3076M
+ZCZC MaxLFS 3080M
+ZCZC MaxMemory 1568M
+ZCZC MaxLFS 3085M
+ZCZC MaxLFS 3090M
+ZCZC MaxMemory 1869M
+ZCZC MaxLFS 3107M
+ZCZC MaxMemory 2003M
+ZCZC MaxLFS 3113M
+ZCZC MaxLFS 3127M
+ZCZC MaxROOT 3584M
+ZCZC MaxLFS 3131M
+ZCZC MaxROOT 3596M
+ZCZC MaxLFS 3140M
+ZCZC MaxROOT 3609M
+ZCZC MaxLFS 3154M
+ZCZC verifyTokenn X1nonW09 X1non 0356-B473 Verified
+ZCZC MaxLFS 3161M
+ZCZC MaxMemory 2012M
+ZCZC MaxLFS 3165M
+ZCZC MaxMemory 2196M
+ZCZC MaxLFS 3177M
+ZCZC MaxLFS 3185M
+ZCZC MaxLFS 3201M
+ZCZC MaxLFS 3206M
+ZCZC MaxLFS 3216M
+ZCZC MaxLFS 3229M
+ZCZC MaxROOT 3645M
+ZCZC MaxLFS 3260M
+ZCZC MaxLFS 3272M
+ZCZC verifyTokenn X1nonW09 X1non 0459-27AF Verified
+ZCZC MaxLFS 3282M
+ZCZC MaxLFS 3293M
+ZCZC MaxLFS 3298M
+ZCZC MaxLFS 3307M
+ZCZC MaxLFS 3324M
+ZCZC MaxLFS 3328M
+ZCZC MaxLFS 3339M
+ZCZC MaxLFS 3345M
+ZCZC MaxLFS 3357M
+ZCZC MaxLFS 3369M
+ZCZC verifyTokenn X1nonW09 X1non 0601-17CC Verified
+ZCZC MaxLFS 3381M
+ZCZC MaxLFS 3391M
+ZCZC MaxLFS 3400M
+ZCZC MaxLFS 3410M
+ZCZC MaxLFS 3423M
+ZCZC MaxLFS 3433M
+ZCZC MaxLFS 3438M
+ZCZC MaxLFS 3452M
+ZCZC MaxLFS 3466M
+ZCZC MaxLFS 3474M
+ZCZC verifyTokenn X1nonW09 X1non 0704-00EB Verified
+ZCZC MaxLFS 3490M
+ZCZC MaxLFS 3494M
+ZCZC MaxLFS 3508M
+ZCZC MaxLFS 3516M
+ZCZC MaxLFS 3523M
+ZCZC MaxLFS 3531M
+ZCZC MaxLFS 3544M
+ZCZC MaxLFS 3552M
+ZCZC MaxLFS 3604M
+ZCZC MaxLFS 3615M
+ZCZC verifyTokenn X1nonW09 X1non 0807-B84E Verified
+ZCZC MaxLFS 3622M
+ZCZC MaxROOT 3669M
+ZCZC MaxLFS 3738M
+ZCZC MaxMemory 2604M
+ZCZC MaxLFS 4610M
+ZCZC MaxLFS 4659M
+ZCZC MaxLFS 4666M
+ZCZC verifyTokenn X1nonW09 X1non 0908-2D23 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1009-F339 Verified
+ZCZC verifyTokenn X1nonW09 X1non 1111-44E5 Verified
+ZCZC MaxLFS 5719M
+ZCZC MaxLFS 5731M
+ZCZC verifyTokenn X1nonW09 X1non 1212-1B16 Verified

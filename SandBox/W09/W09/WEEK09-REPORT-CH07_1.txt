@@ -1,0 +1,24 @@
+ZCZC ===== Chapter 07_1 =====  Week 09 =====
+ZCZC pwd /home/X1non/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-2131
+ZCZC hostname X1non
+ZCZC username X1non
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn X1nonW09 X1non 3124-7E48 Verified
+ZCZC MaxLFS 3089M
+ZCZC MaxROOT 3571M
+ZCZC MaxMemory 183M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 184M
+ZCZC MaxMemory 185M
+ZCZC MaxMemory 186M
+ZCZC verifyTokenn X1nonW09 X1non 3227-D453 Verified
+ZCZC MaxMemory 187M
+ZCZC verifyTokenn X1nonW09 X1non 3328-245F Verified
+ZCZC verifyTokenn X1nonW09 X1non 3429-0523 Verified
+ZCZC verifyTokenn X1nonW09 X1non 3530-FC2E Verified
+ZCZC verifyTokenn X1nonW09 X1non 3631-EDB1 Verified
+ZCZC MaxMemory 188M
